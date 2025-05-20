@@ -67,6 +67,6 @@ under the `mode` param in the config file.
 - `email` - analyse and send the email updates to the mailing list
 
 ### Sample Email Update
-![Sample email update](https://github.com/darpan-jain/stock-portfolio-management/blob/main/utils/emails/sample_email.png)
+![Sample email update](https://github.com/dr-flysky/stock-portfolio-management/blob/main/utils/emails/sample_email.png)
 
 
